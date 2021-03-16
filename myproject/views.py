@@ -18,14 +18,7 @@ from django.contrib.auth.models import User
 
 firebaseConfig = {
 # Credentials of Firebase
-    'apiKey': "AIzaSyBqTeVctIi8yzuQDt67TJCS0qs5sa3ieUk",
-    'authDomain': "fir-website-5b749-default-rtdb.firebaseapp.com",
-    'databaseURL':"https://fir-website-5b749.firebaseio.com",
-    'projectId': "fir-website-5b749",
-    'storageBucket': "fir-website-5b749.appspot.com",
-    'messagingSenderId': "832541991229",
-    'appId': "1:832541991229:web:5d64410f4684b6cfb92554",
-    'measurementId': "G-6XX8X6VQ6S"
+    # add your own credentials of firebase which you would have got at the time of creating your project with firebase. 
   }
   
 
